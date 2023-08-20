@@ -2,7 +2,7 @@
 
 In this project I analyze a dataset on life expectancy for males and females of different income groups.
 
-** Here is a link to the dataset: [Kaggle Link](https://www.kaggle.com/datasets/joebeachcapital/life-expectancy) **
+Here is a link to the dataset: [Kaggle Link](https://www.kaggle.com/datasets/joebeachcapital/life-expectancy) 
 
 Libraries Used
 > Python
