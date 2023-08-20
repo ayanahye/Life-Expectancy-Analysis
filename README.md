@@ -37,6 +37,6 @@ Based on the observed trends, there are several inferences that can me made.
     * Despite improvements, females are expected to maintain a higher life expectancy than males in all income groups
 
 3. **Low-Income Groups**
-    * In the near future, it is likely than low-income females will surpass the life expectancy of malesin the low-middle income group.
+    * In the near future, it is likely than low-income females will surpass the life expectancy of males in the low-middle income group.
     
     
