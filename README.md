@@ -5,10 +5,10 @@ In this project I analyze a dataset on life expectancy for males and females of 
 Here is a link to the dataset: [Kaggle Link](https://www.kaggle.com/datasets/joebeachcapital/life-expectancy) 
 
 Libraries Used
-> Python
-> pandas
-> matplotlib
-> numpy
+   *  Python
+   *  pandas
+   *  matplotlib
+   *  numpy
 
 # Summary Analysis
 
